@@ -1,0 +1,17 @@
+html body .decor-wrap .decor-frm-block { background-color: rgb(32, 163, 255); }
+html body .decor-edit-block-title { color: rgb(14, 36, 112); }
+html body .decor-wrap .decor-block-top-frm-tit3 { color: rgb(14, 36, 112); }
+html body .decor-wrap .decor-block-frm-in3 .gr-button[type="submit"] { background-color: rgb(32, 163, 255); }
+html body .decor-wrap .decor-block-frm-in3 .gr-button[type="submit"]:hover { background-color: rgba(32, 163, 255, 0.9); }
+html body .decor-darant-wr3 { border-top-color: rgb(255, 255, 255); }
+html body .decor-darant-wr3 { border-right-color: rgb(255, 255, 255); }
+html body .decor-darant-wr3 { border-bottom-color: rgb(255, 255, 255); }
+html body .decor-darant-wr3 { border-left-color: rgb(255, 255, 255); }
+html body .decor-darant-tit3 { background-color: rgb(14, 36, 112); }
+html body .decor-darant-tit3 { color: rgb(255, 255, 255); }
+html body .decor-cont-tit3 { background-color: rgb(14, 36, 112); }
+html body .decor-cont-tit3 { color: rgb(255, 255, 255); }
+html body .decor-darant-wr3 ul li span.s1 { border-top-color: rgb(255, 100, 0); }
+html body .decor-darant-wr3 ul li span.s1 { border-right-color: rgb(255, 100, 0); }
+html body .decor-darant-wr3 ul li span.s1 { border-bottom-color: rgb(255, 100, 0); }
+html body .decor-darant-wr3 ul li span.s1 { border-left-color: rgb(255, 100, 0); }
